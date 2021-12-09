@@ -1,0 +1,25 @@
+{
+  "name": "crud-node",
+  "version": "0.0.1",
+  "description": "Crud em NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/add-flav1s/crud-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crud",
+    "git",
+    "github"
+  ],
+  "author": "Ana Flávia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/add-flav1s/crud-node/issues"
+  },
+  "homepage": "https://github.com/add-flav1s/crud-node#readme"
+}
