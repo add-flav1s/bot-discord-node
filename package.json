@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/add-flav1s/crud-node/issues"
   },
-  "homepage": "https://github.com/add-flav1s/crud-node#readme"
+  "homepage": "https://github.com/add-flav1s/crud-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
