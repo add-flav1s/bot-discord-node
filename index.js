@@ -21,7 +21,7 @@ server.get('/animes', (req, res) => {
     return res.json(animes);
 })
 
-//criar um novo anime
+//adiciona um novo anime
 server.post('/animes', (req, res) => {
     const {
         name
@@ -32,7 +32,7 @@ server.post('/animes', (req, res) => {
 })
 
 
-//atualizar um anime
+//atualiza um anime
 server.put('/animes/:index', (req, res) => {
     const {
         index
@@ -46,7 +46,7 @@ server.put('/animes/:index', (req, res) => {
 })
 
 
-//deletar um anime
+//deleta um anime
 server.delete('/animes/:index', (req, res) => {
     const {
         index
